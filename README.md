@@ -1,4 +1,4 @@
-# pdm2-p5 ☆*: .｡. o(≧▽≦)o .｡.:* ☆
+# pdm2-p5 ☆*: .｡. o(≧▽≦)o .｡.:* ☆ ☆
 # <h4> Repositório destinado para as Atividades e Avaliações da matéria de Programação de Dispositivos Móveis 2 - 2024.1 P5 INFORMÁTICA <h4>
 ![mobile](https://github.com/KesiaRocha/pdm2-p5/assets/124710521/193407fe-337d-4eed-9d08-669a21b08cdf)
 
