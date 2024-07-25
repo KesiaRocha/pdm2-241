@@ -6,4 +6,4 @@ FOI COMUNICADO EM SALA QUE FARÍAMOS TODOS JUNTOS, POIS O SQLITE3 SÓ FOI EXECUT
 
 ![print final](https://github.com/user-attachments/assets/ee4d71d7-852f-43c2-afb9-2507cbbc1733)
 
- <a href="https://github.com/DeniseFer/PMD2-241/tree/main/Avaliacoes/avaliacao-05">
+ Feito junto com: <a href="https://github.com/DeniseFer"> Denise Ferreira
