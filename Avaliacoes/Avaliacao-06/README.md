@@ -1,4 +1,4 @@
-# FEITO EM CONJUNTO COM <a href="https://github.com/Julia-maria56/PMD2-241/tree/main/Avaliacoes/avaliacao-06"> JULIA MARIA </a> & <a href="https://github.com/KesiaRocha/pdm2-241/tree/main/Avaliacoes/Avaliacao-06"> KESIA ROCHA </a> E </a> & <a href="https://github.com/mareshbard"> LETÍCIA VITÓRIA </a>   P5 INFORMATICA
+# FEITO EM CONJUNTO COM <a href="https://github.com/Julia-maria56/PMD2-241/tree/main/Avaliacoes/avaliacao-06"> JULIA MARIA </a>  <a href="https://github.com/KesiaRocha/pdm2-241/tree/main/Avaliacoes/Avaliacao-06"> KESIA ROCHA </a>  </a> & <a href="https://github.com/mareshbard"> LETÍCIA VITÓRIA </a>   P5 INFORMATICA
 
 # 3) Crie os seguintes endpoints FASTAPI abaixo descritos: 
 
