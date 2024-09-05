@@ -76,7 +76,7 @@ class _MyAppBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SliverAppBar(
-      title: Text('Catalog Júlia Maria',
+      title: Text('Catalog da Kesia',
           style: Theme.of(context).textTheme.displayLarge),
       floating: true,
       actions: [
