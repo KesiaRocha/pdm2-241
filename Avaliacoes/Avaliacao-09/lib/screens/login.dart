@@ -18,7 +18,7 @@ class MyLogin extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'Welcome Júlia Maria',
+                'Welcome Kesia Rocha',
                 style: Theme.of(context).textTheme.displayLarge,
               ),
               TextFormField(
@@ -40,7 +40,7 @@ class MyLogin extends StatelessWidget {
                   context.pushReplacement('/catalog');
                 },
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color.fromARGB(255, 31, 122, 197),
+                   backgroundColor: const Color.fromARGB(255, 245, 31, 31),
                 ),
                 child: const Text('ENTER'),
               )
