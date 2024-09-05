@@ -13,9 +13,9 @@ class MyCart extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Cart Júlia Maria',
+        title: Text('Cart da Kesia',
             style: Theme.of(context).textTheme.displayLarge),
-        backgroundColor: Colors.white,
+        backgroundColor: const Color.fromARGB(255, 201, 140, 241),
       ),
       body: Container(
         color: const Color.fromARGB(195, 67, 159, 196),
